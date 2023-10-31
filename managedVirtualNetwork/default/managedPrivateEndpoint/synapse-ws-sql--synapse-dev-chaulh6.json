@@ -1,0 +1,10 @@
+{
+	"name": "synapse-ws-sql--synapse-dev-chaulh6",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/b62479b9-4770-4b52-976b-d327da7d6337/resourceGroups/rsg-chaulh6/providers/Microsoft.Synapse/workspaces/synapse-dev-chaulh6",
+		"groupId": "sql",
+		"fqdns": [
+			"synapse-dev-chaulh6.49bf09e4-02a7-48a6-9906-fb1733a8d460.sql.azuresynapse.net"
+		]
+	}
+}

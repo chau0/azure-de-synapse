@@ -1,0 +1,10 @@
+{
+	"name": "synapse-ws-custstgacct--synapse-dev-chaulh6-lakesynapsechaulh6",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/b62479b9-4770-4b52-976b-d327da7d6337/resourceGroups/rsg-chaulh6/providers/Microsoft.Storage/storageAccounts/lakesynapsechaulh6",
+		"groupId": "dfs",
+		"fqdns": [
+			"lakesynapsechaulh6.dfs.core.windows.net"
+		]
+	}
+}
